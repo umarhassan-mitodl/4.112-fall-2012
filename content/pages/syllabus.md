@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides an overview of the studio and information
   on course meeting times, required resources, evluation criteria, grading, and studio
   culture.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -34,7 +32,7 @@ Students should also be able to engage with an increasing level of design resear
 Required Resources
 ------------------
 
-A variety of tools and software are available for the design process, which includes form exploration, modeling, and producing drawings. For Project 1, students will be asked to use [Processing](http://processing.org/), an open source programming language, to develop digital generative drawings. Over the course of the studio, students are encouraged to develop their abilities in modeling their designs as well as producing representations and drawings using [Rhinoceros{{< sup "®" >}}](http://www.rhino3d.com/).
+A variety of tools and software are available for the design process, which includes form exploration, modeling, and producing drawings. For Project 1, students will be asked to use {{% resource_link "5c967d16-8294-4b96-96f8-45a2192323fc" "Processing" %}}, an open source programming language, to develop digital generative drawings. Over the course of the studio, students are encouraged to develop their abilities in modeling their designs as well as producing representations and drawings using {{% resource_link "724766d3-b157-4f8b-9298-e9c1aba18bec" "Rhinoceros<sup>®</sup>" %}}.
 
 Evaluation Criteria
 -------------------
